@@ -1,0 +1,21 @@
+{
+  "os_list": [
+    {
+      "name": "Official list",
+      "description": "Official list",
+      "subitems_url": "https://downloads.raspberrypi.org/os_list_imagingutility.json"
+    },
+    {
+      "name": "General purpose",
+      "description": "General purpose operating systems",
+      "icon": "https://rpi-imager-repo.jvprat.com/general-purpose/index.png",
+      "subitems_url": "https://rpi-imager-repo.jvprat.com/general-purpose/index.json"
+    },
+    {
+    {
+      "name": "Tools",
+      "icon": "https://rpi-imager-repo.jvprat.com/tools/index.png",
+      "subitems_url": "https://rpi-imager-repo.jvprat.com/tools/index.json"
+    }
+  ]
+}
