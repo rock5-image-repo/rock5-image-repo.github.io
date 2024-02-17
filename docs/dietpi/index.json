@@ -1,11 +1,11 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "DietPi Rock 5A",
+            "description": "DietPi is an extremely lightweight Debian OS, highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.",
+            "url": "https://dietpi.com/downloads/images/DietPi_ROCK5A-ARMv8-Bookworm.img.xz",
+            "icon": "https://dietpi.com/images/dietpi-logo_360x360.png",
+            "website": "https://dietpi.com/docs/install/#__tabbed_1_1",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
@@ -15,11 +15,11 @@
             "init_format": "none"
           },
           {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "DietPi Rock 5B",
+            "description": "DietPi is an extremely lightweight Debian OS, highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.",
+            "url": "https://dietpi.com/downloads/images/DietPi_ROCK5B-ARMv8-Bookworm.img.xz",
+            "icon": "https://dietpi.com/images/dietpi-logo_360x360.png",
+            "website": "https://dietpi.com/docs/install/#__tabbed_1_1",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
