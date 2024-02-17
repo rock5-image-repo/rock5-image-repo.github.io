@@ -1,25 +1,11 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
-            "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
-            "devices": [
-              "rock-5a"
-            ],
-            "init_format": "none"
-          },
-          {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "OpenFyde for Rock 5B",
+            "description": "openFyde is an open-source initiative started by Fyde Innovations, the creator of FydeOS, with an aim to provide another approach to Chromium OS. With openFyde, you can have a more open and flexible Chromium OS. In comparison, FydeOS offers a more stable experience, better performance, and unique features.",
+            "url": "https://github.com/openFyde/overlay-rock5b-openfyde/releases/download/r114-r1/rock5b-openfyde-r114_r1.img.xz",
+            "icon": "https://i.ibb.co/5TQHxVW/c8de6c0f-72a1-4019-8576-88a9eb03c9f6.jpg",
+            "website": "https://openfyde.com/",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
