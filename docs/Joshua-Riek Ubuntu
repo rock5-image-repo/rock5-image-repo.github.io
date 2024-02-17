@@ -1,1 +1,19 @@
 
+{
+    "os_list": [
+          {
+            "name": "Spooky Hooky Joshua's Riek Ubuntu",
+            "description": "A very well aclaimed version of ubuntu for our wee boards? Hell yeah!!",
+            "url": "https://github.com/Joshua-Riek/ubuntu-rockchip/releases/download/v1.33/ubuntu-22.04.3-preinstalled-desktop-arm64-rock-5b.img.xz",
+            "icon": "https://forum.radxa.com/uploads/default/original/2X/d/d7daedb88b9eb8817eab5662eb0e435dc0cc7820.jpeg",
+            "website": "https://joshua-riek.github.io/ubuntu-rockchip-download/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          }
+    ]
+  }
