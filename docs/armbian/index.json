@@ -1,11 +1,11 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "Armbian Debian Bookworm",
+            "description": "Armbian is a computing build framework that allows users to create ready-to-use images with working kernels in variable user space configurations for various single board computers. It provides various pre-build images for some supported boards. These are usually Debian or Ubuntu flavored.",
+            "url": "https://xogium.performanceservers.nl/archive/rock-5a/archive/Armbian_23.11.1_Rock-5a_bookworm_edge_6.7.0-rc1.img.xz",
+            "icon": "https://i.ibb.co/Cnf2LW4/de88b5d6324f3fa7631368880363494a0faa601b.png",
+            "website": "https://www.armbian.com/rock-5b/",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
@@ -15,11 +15,39 @@
             "init_format": "none"
           },
           {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "Armbian Ubuntu Jammy",
+            "description": "Armbian is a computing build framework that allows users to create ready-to-use images with working kernels in variable user space configurations for various single board computers. It provides various pre-build images for some supported boards. These are usually Debian or Ubuntu flavored.",
+            "url": "https://xogium.performanceservers.nl/archive/rock-5a/archive/Armbian_23.11.1_Rock-5a_jammy_edge_6.7.0-rc1.img.xz",
+            "icon": "https://i.ibb.co/Cnf2LW4/de88b5d6324f3fa7631368880363494a0faa601b.png",
+            "website": "https://www.armbian.com/rock-5b/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Armbian Debian Bookworm",
+            "description": "Armbian is a computing build framework that allows users to create ready-to-use images with working kernels in variable user space configurations for various single board computers. It provides various pre-build images for some supported boards. These are usually Debian or Ubuntu flavored.",
+            "url": "https://github.com/armbian/community/releases/download/24.5.0-trunk.19/Armbian_community_24.5.0-trunk.19_Rock-5b_bookworm_edge_6.8.0-rc1_minimal.img.xz",
+            "icon": "https://i.ibb.co/Cnf2LW4/de88b5d6324f3fa7631368880363494a0faa601b.png",
+            "website": "https://www.armbian.com/rock-5b/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Armbian Ubuntu Jammy",
+            "description": "Armbian is a computing build framework that allows users to create ready-to-use images with working kernels in variable user space configurations for various single board computers. It provides various pre-build images for some supported boards. These are usually Debian or Ubuntu flavored.",
+            "url": "https://github.com/armbian/community/releases/download/24.5.0-trunk.19/Armbian_community_24.5.0-trunk.19_Rock-5b_jammy_edge_6.8.0-rc1_gnome_desktop.img.xz",
+            "icon": "https://i.ibb.co/Cnf2LW4/de88b5d6324f3fa7631368880363494a0faa601b.png",
+            "website": "https://www.armbian.com/rock-5b/",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
@@ -28,5 +56,6 @@
             ],
             "init_format": "none"
           }
+        
     ]
   }
