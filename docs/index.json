@@ -80,13 +80,13 @@
       "name": "Radxa OS",
       "description": "All Radxa OS official images",
       "icon": "https://docs.radxa.com/en/logo.svg",
-      "subitems_url": "http://localhost:8080/radxa-os/index.json"
+      "subitems_url": "https://rock5-images-repo.github.io/radxa-os/index.json"
     },
     {
       "name": "Android",
       "description": "Radxa Android official images",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/151px-Android_robot_%282014-2019%29.svg.png",
-      "subitems_url": "http://localhost:8080/android/index.json"
+      "subitems_url": "https://rock5-images-repo.github.io/android/index.json"
     },
     {
       "name": "General-purpose OS",
@@ -97,43 +97,43 @@
           "name": "Armbian",
           "description": "Armbian is a computing build framework that allows users to create ready-to-use images with working kernels in variable user space configurations for various single board computers. It provides various pre-build images for some supported boards. These are usually Debian or Ubuntu flavored.",
           "icon": "https://i.ibb.co/Cnf2LW4/de88b5d6324f3fa7631368880363494a0faa601b.png",
-          "subitems_url": "http://localhost:8080/armbian/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/armbian/index.json"
         },
         {
           "name": "Arch Linux Installer for Rock 5",
           "description": "Community-built Arch Linux Installer for ARM (Aarch64) with main focus on the Radxa Rock 5 and RK3588",
           "icon": "https://avatars.githubusercontent.com/u/52997?s=280&v=4",
-          "subitems_url": "http://localhost:8080/archlinux-installer-rock5/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/archlinux-installer-rock5/index.json"
         },
         {
           "name": "Bred OS",
           "description": "BredOS is an Arch Linux based distro. BredOS the OS baked for you!",
           "icon": "https://bredos.org/assets/img/bredlogo.png",
-          "subitems_url": "http://localhost:8080/bred-os/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/bred-os/index.json"
         },
         {
           "name": "DietPi",
           "description": "DietPi is extremely lightweight at its core, with features of low process/memory footprint and DietPi-RAMlog installed by default, to get the maximum performance from your device.",
           "icon": "https://dietpi.com/images/dietpi-logo_256x256.png",
-          "subitems_url": "http://localhost:8080/dietpi/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/dietpi/index.json"
         },
         {
           "name": "Twister OS",
           "description": "Twister OS Armbian is a fully featured, fast and lightweight desktop OS",
           "icon": "https://i.ibb.co/VmkSzxP/Screenshot-2024-02-11-10-38-35.png",
-          "subitems_url": "http://localhost:8080/twister-os/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/twister-os/index.json"
         },
         {
           "name": "openFyde",
           "description": "openFyde is an open-source initiative started by Fyde Innovations, the creator of FydeOS, with an aim to provide another approach to Chromium OS. With openFyde, you can have a more open and flexible Chromium OS. In comparison, FydeOS offers a more stable experience, better performance, and unique features.",
           "icon": "https://avatars.githubusercontent.com/u/88576843?s=200&v=4",
-          "subitems_url": "http://localhost:8080/openfyde/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/openfyde/index.json"
         },
         {
           "name": "Windows on R",
           "description": "The Windows on R Project is a community effort started in 2018 that makes it possible to run the full desktop version of Windows (not to be confused with IoT Core) on the affordable single-board computer.",
           "icon": "https://worproject.com/user/themes/wor-quark/images/logo/logo.svg",
-          "subitems_url": "http://localhost:8080/worproject/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/worproject/index.json"
         }
       ]
     },
@@ -146,7 +146,7 @@
           "name": "LibreELEC",
           "description": "A Kodi Entertainment Center distribution",
           "icon": "https://releases.libreelec.tv/noobs/LibreELEC_RPi/LibreELEC_RPi.png",
-          "subitems_url": "http://localhost:8080/libre-elec/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/libre-elec/index.json"
         }
       ]
     },
@@ -159,13 +159,13 @@
           "name": "Batocera",
           "description": "Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently. Batocera.linux does not require any modification on your computer.",
           "icon": "https://i.ibb.co/jhKFXPZ/batocera-themes.jpg",
-          "subitems_url": "http://localhost:8080/batocera/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/batocera/index.json"
         },
         {
           "name": "JELOS",
           "description": "Just Enough Linux Operating System (JELOS) is a community developed Linux distribution for handheld gaming devices. Our goal is to produce an operating system that has the features and capabilities that we need, and to have fun as we develop it.",
           "icon": "https://i.ibb.co/Ws00wfM/wayland-screenshot-2023-03-07-18-13-17.png",
-          "subitems_url": "http://localhost:8080/jel-os/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/jel-os/index.json"
         }
       ]
     },
@@ -178,13 +178,13 @@
           "name": "3D printing",
           "description": "3D printer operating systems",
           "icon": "icons/cat_3d_printing.png",
-          "subitems_url": "http://localhost:8080/3d-printing/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/3d-printing/index.json"
         },
         {
           "name": "Proxmox VE",
           "description": "Proxmox Virtual Environment is a complete open-source platform for enterprise virtualization. With the built-in web interface you can easily manage VMs",
           "icon": "https://forum.proxmox.com/styles/uix/images/Proxmox-logo-stacked-white-background-1200.png",
-          "subitems_url": "http://localhost:8080/proxmox-ve/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/proxmox-ve/index.json"
         }
       ]
     }
