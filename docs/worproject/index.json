@@ -1,25 +1,11 @@
 {
     "os_list": [
-        {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
-            "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
-            "devices": [
-              "rock-5a"
-            ],
-            "init_format": "none"
-          },
           {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "Windows ARM for Rock 5B",
+            "description": "The Windows on R Project is a community effort started in 2018 that makes it possible to run the full desktop version of Windows (not to be confused with IoT Core) on the affordable single-board computer.",
+            "url": "https://dl.luobotou.org/wtga5610.zip",
+            "icon": "https://forum.radxa.com/uploads/default/original/2X/6/6b6fbea933d3a1bac6779f9756250f2b0a55651c.jpeg",
+            "website": "https://worproject.com/guides/how-to-install/on-rockchip",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
