@@ -114,6 +114,18 @@
           "subitems_url": "https://rock5-images-repo.github.io/dietpi/index.json"
         },
         {
+          "name": "Joshua-Riek Ubuntu",
+          "description": "A very well aclaimed version of ubuntu for our wee boards? Hell yeah!!",
+          "icon": "https://forum.radxa.com/uploads/default/original/2X/d/d7daedb88b9eb8817eab5662eb0e435dc0cc7820.jpeg",
+          "subitems_url": "https://rock5-images-repo.github.io/joshua-riek-ubuntu/index.json"
+        },
+        {
+          "name": "monkaBlyat's Afterburner for Rock 5",
+          "description": "Project ARMory juicing up your sbc toys!",
+          "icon": "https://i.ibb.co/d5kKNs6/Screenshot-from-2023-03-07-00-07-39.png",
+          "subitems_url": "https://rock5-images-repo.github.io/monka-blyat-afterburner/index.json"
+        },
+        {
           "name": "Twister OS",
           "description": "Twister OS Armbian is a fully featured, fast and lightweight desktop OS",
           "icon": "https://i.ibb.co/VmkSzxP/Screenshot-2024-02-11-10-38-35.png",
