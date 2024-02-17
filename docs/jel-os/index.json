@@ -1,30 +1,16 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "JELOS for Rock 5B",
+            "description": "What's old is gold, right? Why not to try a nice Emulation Station with Just Enough Linux.",
+            "url": "https://drive.google.com/file/d/1dH5mcg72GjAeeQmUo8aGkOqLDif3hdpW/view?usp=sharing",
+            "icon": "https://i.ibb.co/Ws00wfM/wayland-screenshot-2023-03-07-18-13-17.png",
+            "website": "https://github.com/JustEnoughLinuxOS/distribution/wiki/",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
             "devices": [
               "rock-5a"
-            ],
-            "init_format": "none"
-          },
-          {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
-            "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
-            "devices": [
-              "rock-5b"
             ],
             "init_format": "none"
           }
