@@ -1,32 +1,35 @@
 {
     "os_list": [
-        {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+          {
+            "name": "Arch Linux Installer for Rock 5",
+            "description": "Arch Linux Installer image for both Rock 5A and 5B",
+            "url": "https://github.com/kwankiu/archlinux-installer-rock5/releases/download/b04/archlinux-installer-rock5.img.xz",
+            "icon": "https://avatars.githubusercontent.com/u/52997?s=280&v=4",
+            "website": "https://github.com/kwankiu/archlinux-installer-rock5/wiki",
             "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
+            "image_download_size": 351000000,
+            "release_date": "2024-02-11",
             "devices": [
-              "rock-5a"
+              "rock-5a",
+              "rock-5b"
             ],
             "init_format": "none"
           },
           {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "Arch Linux Installer for Rock 5 (development build)",
+            "description": "Arch Linux Installer (development build) image for both Rock 5A and 5B",
+            "url": "https://github.com/kwankiu/archlinux-installer-rock5/releases/download/b05-dev/rock5-archlinux-installer.img.xz",
+            "icon": "https://avatars.githubusercontent.com/u/52997?s=280&v=4",
+            "website": "https://github.com/kwankiu/archlinux-installer-rock5/wiki",
             "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
+            "image_download_size": 339000000,
+            "release_date": "2024-02-16",
             "devices": [
+              "rock-5a",
               "rock-5b"
             ],
             "init_format": "none"
           }
+
     ]
   }
