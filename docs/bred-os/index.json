@@ -1,11 +1,11 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "BredOS Archlinux Rock 5A",
+            "description": "Get a buttery-smooth experience with BredOS!",
+            "url": "https://repo.bredos.org/new-images/BredOS-ARM-Rock5A-2024-01-21.img.xz",
+            "icon": "https://bredos.org/assets/img/2023-05-27_17-44.jpg",
+            "website": "https://bredos.org/download.html",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
@@ -15,11 +15,11 @@
             "init_format": "none"
           },
           {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "BredOS Archlinux Rock 5B",
+            "description": "Get a buttery-smooth experience with BredOS!",
+            "url": "https://repo.bredos.org/new-images/BredOS-ARM-rock5b-2024-01-21.img.xz",
+            "icon": "https://bredos.org/assets/img/2023-05-27_17-44.jpg",
+            "website": "https://bredos.org/download.html",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
