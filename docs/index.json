@@ -123,13 +123,19 @@
           "name": "monkaBlyat's Afterburner for Rock 5",
           "description": "Project ARMory juicing up your sbc toys!",
           "icon": "https://i.ibb.co/d5kKNs6/Screenshot-from-2023-03-07-00-07-39.png",
-          "subitems_url": "https://rock5-images-repo.github.io/monka-blyat-afterburner/index.json"
+          "subitems_url": "https://rock5-images-repo.github.io/project-afterburner-arm/index.json"
         },
         {
           "name": "Twister OS",
           "description": "Twister OS Armbian is a fully featured, fast and lightweight desktop OS",
           "icon": "https://i.ibb.co/VmkSzxP/Screenshot-2024-02-11-10-38-35.png",
           "subitems_url": "https://rock5-images-repo.github.io/twister-os/index.json"
+        },
+        {
+          "name": "fydeOS",
+          "description": "FydeOS is a lightweight operating system that carries a Linux kernel, it is powered by browser platform and container technology. It is very similar to Google Chrome OS in use. FydeOS runs smoothly on most PCs that meet the minimal requirements.",
+          "icon": "https://fydeos.io/static/images/Circle.svg",
+          "subitems_url": "https://rock5-images-repo.github.io/fyde-os/index.json"
         },
         {
           "name": "openFyde",
