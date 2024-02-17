@@ -11,8 +11,6 @@
       {
         "name": "Radxa ROCK 5A",
         "tags": [
-          "rock5",
-          "rock-5",
           "rock-5a"
         ],
         "default": false,
@@ -23,8 +21,6 @@
       {
         "name": "Radxa ROCK 5B",
         "tags": [
-          "rock5",
-          "rock-5",
           "rock-5b"
         ],
         "default": false,
