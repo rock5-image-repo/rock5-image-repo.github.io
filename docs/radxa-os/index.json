@@ -1,0 +1,158 @@
+{
+    "os_list": [
+        {
+            "name": "Radxa OS (ROCK 5A Debian Bullseye KDE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+            "url": "https://github.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_kde_b18.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2023-08-21",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5A Debian Bullseye XFCE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+            "url": "https://github.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_xfce_b18.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+            "extract_size": 409600000,
+            "image_download_size": 979000000,
+            "release_date": "2023-08-21",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5A Debian Bullseye Minimal)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+            "url": "https://github.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_cli_b18.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+            "extract_size": 409600000,
+            "image_download_size": 303000000,
+            "release_date": "2023-08-21",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5A Ubuntu Jammy KDE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Ubuntu",
+            "url": "https://github.com/radxa-build/rock-5a/releases/download/b18/rock-5a_ubuntu_jammy_kde_b18.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+            "extract_size": 409600000,
+            "image_download_size": 1210000000,
+            "release_date": "2023-08-21",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5A Ubuntu Jammy Minimal)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Ubuntu",
+            "url": "https://github.com/radxa-build/rock-5a/releases/download/b18/rock-5a_ubuntu_jammy_cli_b18.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+            "extract_size": 409600000,
+            "image_download_size": 558000000,
+            "release_date": "2023-08-21",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5B Debian Bullseye KDE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 1280000000,
+            "release_date": "2023-09-04",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5B Debian Bullseye XFCE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_xfce_b39.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 979000000,
+            "release_date": "2023-09-04",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5B Debian Bullseye Minimal)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_cli_b39.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 303000000,
+            "release_date": "2023-09-04",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5B Ubuntu Jammy KDE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Ubuntu",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_ubuntu_jammy_kde_b39.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 1260000000,
+            "release_date": "2023-09-04",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5B Ubuntu Jammy XFCE)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Ubuntu",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_ubuntu_jammy_xfce_b39.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 1040000000,
+            "release_date": "2023-09-04",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Radxa OS (ROCK 5B Ubuntu Jammy Minimal)",
+            "description": "Radxa OS is the official operating system developed by Radxa based on Ubuntu",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_ubuntu_jammy_cli_b39.img.xz",
+            "icon": "https://docs.radxa.com/en/logo.svg",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 732000000,
+            "release_date": "2023-09-04",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          }
+    ]
+  }

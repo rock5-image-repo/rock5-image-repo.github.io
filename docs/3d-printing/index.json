@@ -1,0 +1,152 @@
+{
+    "os_list": [
+        {
+          "name": "OctoPi",
+          "description": "A Raspberry Pi distribution for 3D printers. Ships OctoPrint out-of-the-box.",
+          "icon": "https://octopi.octoprint.org/rpi-imager.png",
+          "subitems": [
+            {
+              "name": "OctoPi (stable)",
+              "description": "OctoPi 1.0.0 with OctoPrint 1.9.3 (build 20231009151442)",
+              "icon": "https://octopi.octoprint.org/rpi-imager.png",
+              "url": "https://github.com/OctoPrint/OctoPi-UpToDate/releases/download/1.0.0-1.9.3-20231009151442/octopi-1.0.0-1.9.3-20231009151442.zip",
+              "extract_size": 2906653696,
+              "extract_sha256": "be463887026d00b70118cc6a0d0b60f7a7927e6c1c6488484d0f7fd519328030",
+              "image_download_size": 1075480610,
+              "image_download_sha256": "fb8796639a9afe6abaaf514e411b6a6ba479852bbf234580f6a5ec72967ec48c",
+              "release_date": "2023-10-09",
+              "init_format": "systemd"
+            },
+            {
+              "name": "OctoPi (new camera stack)",
+              "description": "OctoPi 1.0.0 with OctoPrint 1.9.3 (build 20231009154319 from branch camera-streamer)",
+              "icon": "https://octopi.octoprint.org/rpi-imager.png",
+              "url": "https://github.com/OctoPrint/OctoPi-UpToDate/releases/download/1.0.0-1.9.3-20231009154319/octopi-1.0.0-1.9.3-20231009154319.zip",
+              "extract_size": 2906653696,
+              "extract_sha256": "47d7af040271115e8e2f9ebdd6bfbb4217edf9c3be76997b991a9d8559775db2",
+              "image_download_size": 1101037446,
+              "image_download_sha256": "1d9bdd3571944960fa7b694f57aabb6d76dd2b98fccab3519d1d7f671f6faf5a",
+              "release_date": "2023-10-09",
+              "init_format": "systemd"
+            }
+          ]
+        },
+        {
+          "name": "OctoKlipperPi",
+          "description": "Includes the OctoPrint host software for 3d printers and Klipper 3D printer firmware service",
+          "icon": "https://github.com/guysoft/OctoKlipperPi/raw/main/media/rpi-imager-OctoKlipperPi.png",
+          "subitems": [
+            {
+              "name": "OctoPi-Klipper (stable)",
+              "description": "OctoPi 1.0.0 with latest Klipper",
+              "icon": "https://github.com/guysoft/OctoPi-Klipper/raw/main/media/rpi-imager-OctoPi-Klipper.png",
+              "url": "https://github.com/guysoft/OctoPi-Klipper-CustoPiZer/releases/download/1.0.0.klipper.20231028202951/octopi-1.0.0-klipper-20231028202951.zip",
+              "extract_size": 5025825792,
+              "extract_sha256": "f6f1d77ed60dcdb3c028feead575183083ecfbdc2228bd7629f12a2c1143b758",
+              "image_download_size": 1434616602,
+              "image_download_sha256": "eb5c389fa2ed12b5a0ea1b9f4cf13eeaf132898e51dc416e724794ca0938be37",
+              "release_date": "2023-10-28",
+              "init_format": "systemd"
+            }
+          ]
+        },
+        {
+          "name": "Mainsail OS",
+          "description": "Klipper Firmware & Moonraker API and Mainsail UI - ready to print!",
+          "icon": "https://os.mainsail.xyz/rpi-imager.png",
+          "subitems": [
+            {
+              "name": "Mainsail OS 1.3.2 - Orange Pi 3 LTS (64-bit)",
+              "description": "A port of Armbian with preinstalled Klipper/Moonraker/Mainsail for 3D printers",
+              "icon": "https://os.mainsail.xyz/rpi-imager.png",
+              "url": "https://github.com/mainsail-crew/MainsailOS/releases/download/1.3.2/2024-01-20-MainsailOS-1.3.2-armbian-orangepi3lts.img.xz",
+              "extract_size": 5475663872,
+              "extract_sha256": "d9e873822aaf865d92f9d70aa804f2bbaa27e4b84fa6e69413a8b3d50bc581c5",
+              "image_download_size": 886417448,
+              "release_date": "2024-01-20",
+              "init_format": "none",
+              "devices": [
+                "orangepi3lts-64bit"
+              ]
+            },
+            {
+              "name": "Mainsail OS 1.3.2 - Orange Pi 4 LTS (64-bit)",
+              "description": "A port of Armbian with preinstalled Klipper/Moonraker/Mainsail for 3D printers",
+              "icon": "https://os.mainsail.xyz/rpi-imager.png",
+              "url": "https://github.com/mainsail-crew/MainsailOS/releases/download/1.3.2/2024-01-20-MainsailOS-1.3.2-armbian-orangepi4lts.img.xz",
+              "extract_size": 5584715776,
+              "extract_sha256": "b7d4e3d601e1718abe0f98ac7b83a22d509b724b0de9961792c9dae15938132e",
+              "image_download_size": 919627260,
+              "release_date": "2024-01-20",
+              "init_format": "none",
+              "devices": [
+                "orangepi4lts-64bit"
+              ]
+            },
+            {
+              "name": "Mainsail OS 1.3.2 - Orange Pi Zero2 (64-bit)",
+              "description": "A port of Orange Pi OS with preinstalled Klipper/Moonraker/Mainsail for 3D printers",
+              "icon": "https://os.mainsail.xyz/rpi-imager.png",
+              "url": "https://github.com/mainsail-crew/MainsailOS/releases/download/1.3.2/2024-01-20-MainsailOS-1.3.2-orangepi-orangepi_zero2.img.xz",
+              "extract_size": 6482296832,
+              "extract_sha256": "1d2b2f8db4310dd308e26107c5e1f9373b53b64109b2504bc97b1930f68fd49f",
+              "image_download_size": 798249324,
+              "release_date": "2024-01-20",
+              "init_format": "none",
+              "devices": [
+                "orangepizero2-64bit"
+              ]
+            },
+            {
+              "name": "Mainsail OS 1.3.2 - Raspberry Pi (32-bit)",
+              "description": "A port of Raspberry Pi OS with preinstalled Klipper/Moonraker/Mainsail for 3D printers",
+              "icon": "https://os.mainsail.xyz/rpi-imager.png",
+              "url": "https://github.com/mainsail-crew/MainsailOS/releases/download/1.3.2/2024-01-20-MainsailOS-1.3.2-raspberry-rpi32.img.xz",
+              "extract_size": 6282019840,
+              "extract_sha256": "f0371c29d0c033dfc69b4b156bce4d1310459f776f5e21c0291c10fc83d10b20",
+              "image_download_size": 1079166600,
+              "release_date": "2024-01-20",
+              "init_format": "systemd",
+              "devices": [
+                "pi1-32bit",
+                "pi2-32bit"
+              ]
+            },
+            {
+              "name": "Mainsail OS 1.3.2 - Raspberry Pi (64-bit)",
+              "description": "A port of Raspberry Pi OS with preinstalled Klipper/Moonraker/Mainsail for 3D printers",
+              "icon": "https://os.mainsail.xyz/rpi-imager.png",
+              "url": "https://github.com/mainsail-crew/MainsailOS/releases/download/1.3.2/2024-01-20-MainsailOS-1.3.2-raspberry-rpi64.img.xz",
+              "extract_size": 6371148800,
+              "extract_sha256": "0539e5ac39ea8174556dc520065cf541ba065a026cc64027ddb93edfe678394e",
+              "image_download_size": 964098004,
+              "release_date": "2024-01-20",
+              "init_format": "systemd",
+              "devices": [
+                "pi3-64bit",
+                "pi4-64bit"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SimplyPrint - 3D print anywhere, smarter",
+          "description": "Effortlessly manage 1, 2 or 100 3D printers from anywhere with the SimplyPrint ecosystem - free and easy to set up (SimplyPrint plugin on top of OctoPrint)",
+          "icon": "http://cdn.simplyprint.io/i/static/rpi-imager/icon_gradient.png",
+          "subitems": [
+            {
+              "name": "SimplyPrint OS (aka. SimplyPi - latest)",
+              "description": "Effortlessly manage 1, 2 or 100 3D printers from anywhere with the SimplyPrint ecosystem - free and easy to set up (SimplyPrint plugin on top of OctoPrint)",
+              "icon": "https://cdn.simplyprint.io/i/static/rpi-imager/icon_gradient.png",
+              "url": "https://github.com/SimplyPrint/SimplyPi/releases/download/1.0.0.op1.9.3.sp4.1.3/SimplyPi-1.0.0-sp4.1.3-octoprint1.9.3.img.zip",
+              "extract_size": 2906653696,
+              "extract_sha256": "2b3001007abbd6d1c69b705709a766e17330384daee8f4b635325c16a9709d15",
+              "image_download_size": 1102552841,
+              "image_download_sha256": "dfd399d12999effd3e69956696611fcedee7620e8101ac757c401b5f0edbf7cc",
+              "release_date": "2023-11-13",
+              "init_format": "systemd"
+            }
+          ]
+        }
+    ]
+  }

@@ -1,21 +1,192 @@
 {
+  "imager": {
+    "devices": [
+      {
+        "name": "All",
+        "tags": [],
+        "default": false,
+        "description": "Show all images",
+        "matching_type": "inclusive"
+      },
+      {
+        "name": "Radxa ROCK 5A",
+        "tags": [
+          "rock5",
+          "rock-5",
+          "rock-5a"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/rock5/rock_5a/banner_rock5a.webp",
+        "description": "8K Quality in the Palm of Your Hand",
+        "matching_type": "exclusive"
+      },
+      {
+        "name": "Radxa ROCK 5B",
+        "tags": [
+          "rock5",
+          "rock-5",
+          "rock-5b"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/rock5/rock_5b/banner_rock5b.webp",
+        "description": "8K Single Board Computer with Quad Display",
+        "matching_type": "inclusive"
+      },
+      {
+        "name": "Generic RK3588 / RK3588S",
+        "tags": [
+          "generic-rk3588",
+          "generic-rk3588s",
+          "rk3588",
+          "rk3588s"
+        ],
+        "default": false,
+        "icon": "https://www.rock-chips.com/uploads/allimg/220926/1-2209261629510.png",
+        "description": "Show images for generic RK3588",
+        "matching_type": "inclusive"
+      }
+    ]
+  },
   "os_list": [
     {
-      "name": "Official list",
-      "description": "Official list",
-      "subitems_url": "https://downloads.raspberrypi.org/os_list_imagingutility.json"
+      "name": "Radxa OS (ROCK 5A Debian Bullseye KDE)",
+      "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+      "url": "https://github.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_kde_b18.img.xz",
+      "icon": "https://docs.radxa.com/en/logo.svg",
+      "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+      "extract_size": 409600000,
+      "image_download_size": 1270000000,
+      "release_date": "2023-08-21",
+      "devices": [
+        "rock-5a"
+      ],
+      "init_format": "none"
     },
     {
-      "name": "General purpose",
-      "description": "General purpose operating systems",
-      "icon": "https://rpi-imager-repo.jvprat.com/general-purpose/index.png",
-      "subitems_url": "https://rpi-imager-repo.jvprat.com/general-purpose/index.json"
+      "name": "Radxa OS (ROCK 5B Debian Bullseye KDE)",
+      "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
+      "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.xz",
+      "icon": "https://docs.radxa.com/en/logo.svg",
+      "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+      "extract_size": 409600000,
+      "image_download_size": 1280000000,
+      "release_date": "2023-09-04",
+      "devices": [
+        "rock-5b"
+      ],
+      "init_format": "none"
     },
     {
+      "name": "Radxa OS",
+      "description": "All Radxa OS official images",
+      "icon": "https://docs.radxa.com/en/logo.svg",
+      "subitems_url": "http://localhost:8080/radxa-os/index.json"
+    },
     {
-      "name": "Tools",
-      "icon": "https://rpi-imager-repo.jvprat.com/tools/index.png",
-      "subitems_url": "https://rpi-imager-repo.jvprat.com/tools/index.json"
+      "name": "Android",
+      "description": "Radxa Android official images",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/151px-Android_robot_%282014-2019%29.svg.png",
+      "subitems_url": "http://localhost:8080/android/index.json"
+    },
+    {
+      "name": "General-purpose OS",
+      "description": "General-purpose operating systems",
+      "icon": "icons/cat_other_general_purpose_operating_systems.png",
+      "subitems": [
+        {
+          "name": "Armbian",
+          "description": "Armbian is a computing build framework that allows users to create ready-to-use images with working kernels in variable user space configurations for various single board computers. It provides various pre-build images for some supported boards. These are usually Debian or Ubuntu flavored.",
+          "icon": "https://i.ibb.co/Cnf2LW4/de88b5d6324f3fa7631368880363494a0faa601b.png",
+          "subitems_url": "http://localhost:8080/armbian/index.json"
+        },
+        {
+          "name": "Arch Linux Installer for Rock 5",
+          "description": "Community-built Arch Linux Installer for ARM (Aarch64) with main focus on the Radxa Rock 5 and RK3588",
+          "icon": "https://avatars.githubusercontent.com/u/52997?s=280&v=4",
+          "subitems_url": "http://localhost:8080/archlinux-installer-rock5/index.json"
+        },
+        {
+          "name": "Bred OS",
+          "description": "BredOS is an Arch Linux based distro. BredOS the OS baked for you!",
+          "icon": "https://bredos.org/assets/img/bredlogo.png",
+          "subitems_url": "http://localhost:8080/bred-os/index.json"
+        },
+        {
+          "name": "DietPi",
+          "description": "DietPi is extremely lightweight at its core, with features of low process/memory footprint and DietPi-RAMlog installed by default, to get the maximum performance from your device.",
+          "icon": "https://dietpi.com/images/dietpi-logo_256x256.png",
+          "subitems_url": "http://localhost:8080/dietpi/index.json"
+        },
+        {
+          "name": "Twister OS",
+          "description": "Twister OS Armbian is a fully featured, fast and lightweight desktop OS",
+          "icon": "https://i.ibb.co/VmkSzxP/Screenshot-2024-02-11-10-38-35.png",
+          "subitems_url": "http://localhost:8080/twister-os/index.json"
+        },
+        {
+          "name": "openFyde",
+          "description": "openFyde is an open-source initiative started by Fyde Innovations, the creator of FydeOS, with an aim to provide another approach to Chromium OS. With openFyde, you can have a more open and flexible Chromium OS. In comparison, FydeOS offers a more stable experience, better performance, and unique features.",
+          "icon": "https://avatars.githubusercontent.com/u/88576843?s=200&v=4",
+          "subitems_url": "http://localhost:8080/openfyde/index.json"
+        },
+        {
+          "name": "Windows on R",
+          "description": "The Windows on R Project is a community effort started in 2018 that makes it possible to run the full desktop version of Windows (not to be confused with IoT Core) on the affordable single-board computer.",
+          "icon": "https://worproject.com/user/themes/wor-quark/images/logo/logo.svg",
+          "subitems_url": "http://localhost:8080/worproject/index.json"
+        }
+      ]
+    },
+    {
+      "name": "Media player OS",
+      "description": "Media player operating systems",
+      "icon": "icons/cat_media_players.png",
+      "subitems": [
+        {
+          "name": "LibreELEC",
+          "description": "A Kodi Entertainment Center distribution",
+          "icon": "https://releases.libreelec.tv/noobs/LibreELEC_RPi/LibreELEC_RPi.png",
+          "subitems_url": "http://localhost:8080/libre-elec/index.json"
+        }
+      ]
+    },
+    {
+      "name": "Emulation and game OS",
+      "description": "Emulators for running retro-computing and gaming focused platforms",
+      "icon": "icons/cat_emulation_and_games.png",
+      "subitems": [
+        {
+          "name": "Batocera",
+          "description": "Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently. Batocera.linux does not require any modification on your computer.",
+          "icon": "https://i.ibb.co/jhKFXPZ/batocera-themes.jpg",
+          "subitems_url": "http://localhost:8080/batocera/index.json"
+        },
+        {
+          "name": "JELOS",
+          "description": "Just Enough Linux Operating System (JELOS) is a community developed Linux distribution for handheld gaming devices. Our goal is to produce an operating system that has the features and capabilities that we need, and to have fun as we develop it.",
+          "icon": "https://i.ibb.co/Ws00wfM/wayland-screenshot-2023-03-07-18-13-17.png",
+          "subitems_url": "http://localhost:8080/jel-os/index.json"
+        }
+      ]
+    },
+    {
+      "name": "Specific-purpose OS",
+      "description": "Specific-purpose OS for IoT, AI, Virtualization, 3D printing, etc.",
+      "icon": "icons/cat_other_specific_purpose_operating_systems.png",
+      "subitems": [
+        {
+          "name": "3D printing",
+          "description": "3D printer operating systems",
+          "icon": "icons/cat_3d_printing.png",
+          "subitems_url": "http://localhost:8080/3d-printing/index.json"
+        },
+        {
+          "name": "Proxmox VE",
+          "description": "Proxmox Virtual Environment is a complete open-source platform for enterprise virtualization. With the built-in web interface you can easily manage VMs",
+          "icon": "https://forum.proxmox.com/styles/uix/images/Proxmox-logo-stacked-white-background-1200.png",
+          "subitems_url": "http://localhost:8080/proxmox-ve/index.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+    "os_list": [
+        {
+            "name": "Android 12 (Rock 5A)",
+            "description": "Radxa Android 12 build",
+            "url": "https://github.com/radxa/manifests/releases/download/Android12_rk12/Rock5A_Android12_rkr12_20230519_gpt.zip",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/151px-Android_robot_%282014-2019%29.svg.png",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5A",
+            "extract_size": 409600000,
+            "image_download_size": 1420000000,
+            "release_date": "2023-05-19",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Android 12 (Rock 5B)",
+            "description": "Radxa Android 12 build",
+            "url": "https://github.com/radxa/manifests/releases/download/Rock-android12-20230315/Rock5B-Android12-rkr12-20230315-gpt.zip",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/151px-Android_robot_%282014-2019%29.svg.png",
+            "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
+            "extract_size": 409600000,
+            "image_download_size": 789000000,
+            "release_date": "2023-03-14",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          }
+    ]
+  }

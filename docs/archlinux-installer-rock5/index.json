@@ -1,0 +1,32 @@
+{
+    "os_list": [
+        {
+            "name": "Your Operating System Name",
+            "description": "What your operating system does!",
+            "url": "https://path.to/your/compressed/os.img.xz",
+            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
+            "website": "https://path.to/your-website",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "Your Operating System Name",
+            "description": "What your operating system does!",
+            "url": "https://path.to/your/compressed/os.img.xz",
+            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
+            "website": "https://path.to/your-website",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          }
+    ]
+  }

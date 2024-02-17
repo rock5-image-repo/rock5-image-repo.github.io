@@ -1,0 +1,32 @@
+{
+    "os_list": [
+      {
+        "name": "LibreELEC (Rock 5A)",
+        "description": "A fast and user-friendly Kodi mediacenter distro for RPi5",
+        "icon": "https://releases.libreelec.tv/noobs/LibreELEC_RPi/LibreELEC_RPi.png",
+        "url": "https://releases.libreelec.tv/LibreELEC-RPi5.arm-11.0.6.img.gz",
+        "extract_size": 575668224,
+        "extract_sha256": "80226e426a9a53b13cc8cacb7ba0033699ff8e178717e7d077caa647df08ee10",
+        "image_download_size": 131342749,
+        "release_date": "2024-01-27",
+        "init_format": "none",
+        "devices": [
+          "rock-5a"
+        ]
+      },
+      {
+        "name": "LibreELEC (Rock 5B)",
+        "description": "A fast and user-friendly Kodi mediacenter distro for RPi4",
+        "icon": "https://releases.libreelec.tv/noobs/LibreELEC_RPi/LibreELEC_RPi.png",
+        "url": "https://releases.libreelec.tv/LibreELEC-RPi4.arm-11.0.6.img.gz",
+        "extract_size": 575668224,
+        "extract_sha256": "e96ba29b6daeba79004aba8cd79f760b0b2e14eec615125eeeac59d95f2aa99f",
+        "image_download_size": 134622390,
+        "release_date": "2024-01-27",
+        "init_format": "none",
+        "devices": [
+          "rock-5b"
+        ]
+      }
+    ]
+  }
