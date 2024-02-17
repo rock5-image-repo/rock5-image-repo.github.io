@@ -1,25 +1,11 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
-            "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
-            "devices": [
-              "rock-5a"
-            ],
-            "init_format": "none"
-          },
-          {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "fydeOS for Rock 5B",
+            "description": "FydeOS is a lightweight operating system that carries a Linux kernel, it is powered by browser platform and container technology. It is very similar to Google Chrome OS in use. FydeOS runs smoothly on most PCs that meet the minimal requirements.",
+            "url": "https://download.fydeos.io/FydeOS_for_You_Rock5B_v17.0-io.img.xz",
+            "icon": "https://fydeos.io/static/images/Circle.svg",
+            "website": "https://fydeos.io/download/device/rock5b-fydeos",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
