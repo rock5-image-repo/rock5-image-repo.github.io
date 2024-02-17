@@ -1,1 +1,61 @@
 
+{
+    "os_list": [
+          {
+            "name": "monkaBlyat's Afterburner Noble",
+            "description": " Project ARMory juicing up your sbc toys!",
+            "url": "https://monka.systemonachip.net/rock5a/edge/Armbian-unofficial_23.11.0-monka_Rock-5a_noble_edge_6.7.2.img.xz",
+            "icon": "https://i.ibb.co/d5kKNs6/Screenshot-from-2023-03-07-00-07-39.png",
+            "website": "https://monka.systemonachip.net/rock5a/edge/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "monkaBlyat's Afterburner Jammy",
+            "description": " Project ARMory juicing up your sbc toys!",
+            "url": "https://monka.systemonachip.net/rock5a/edge/Armbian-unofficial_23.11.0-monka_Rock-5a_jammy_edge_6.7.2.img.xz",
+            "icon": "https://i.ibb.co/d5kKNs6/Screenshot-from-2023-03-07-00-07-39.png",
+            "website": "https://monka.systemonachip.net/rock5a/edge/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5a"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "monkaBlyat's Afterburner Noble",
+            "description": " Project ARMory juicing up your sbc toys!",
+            "url": "https://monka.systemonachip.net/rock5b/edge/Armbian-unofficial_23.11.0-monka_Rock-5b_noble_edge_6.7.2.img.xz",
+            "icon": "https://i.ibb.co/d5kKNs6/Screenshot-from-2023-03-07-00-07-39.png",
+            "website": "https://monka.systemonachip.net/rock5b/edge/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          },
+          {
+            "name": "monkaBlyat's Afterburner Jammy",
+            "description": " Project ARMory juicing up your sbc toys!",
+            "url": "https://monka.systemonachip.net/rock5b/edge/Armbian-unofficial_23.11.0-monka_Rock-5b_jammy_edge_6.7.2.img.xz",
+            "icon": "https://i.ibb.co/d5kKNs6/Screenshot-from-2023-03-07-00-07-39.png",
+            "website": "https://monka.systemonachip.net/rock5b/edge/",
+            "extract_size": 409600000,
+            "image_download_size": 1270000000,
+            "release_date": "2024-01-01",
+            "devices": [
+              "rock-5b"
+            ],
+            "init_format": "none"
+          }
+    ]
+  }
