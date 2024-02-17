@@ -1,25 +1,11 @@
 {
     "os_list": [
         {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
-            "extract_size": 409600000,
-            "image_download_size": 1270000000,
-            "release_date": "2024-01-01",
-            "devices": [
-              "rock-5a"
-            ],
-            "init_format": "none"
-          },
-          {
-            "name": "Your Operating System Name",
-            "description": "What your operating system does!",
-            "url": "https://path.to/your/compressed/os.img.xz",
-            "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
-            "website": "https://path.to/your-website",
+            "name": "Batocera for Rock 5B",
+            "description": "Fancy a good mugen? Batocera is here and allows you to get the best of emulators all in one system.",
+            "url": "https://updates.batocera.org/rock-5b/stable/last/batocera-rk3588-rock-5b-36-20230310.img.gz",
+            "icon": "https://i.ibb.co/jhKFXPZ/batocera-themes.jpg",
+            "website": "https://batocera.org/download",
             "extract_size": 409600000,
             "image_download_size": 1270000000,
             "release_date": "2024-01-01",
