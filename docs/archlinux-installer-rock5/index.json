@@ -3,12 +3,12 @@
           {
             "name": "Arch Linux Installer for Rock 5",
             "description": "Arch Linux Installer image for both Rock 5A and 5B",
-            "url": "https://github.com/kwankiu/archlinux-installer-rock5/releases/download/b04/archlinux-installer-rock5.img.xz",
+            "url": "https://github.com/kwankiu/archlinux-installer-rock5/releases/download/b05/rock5-archlinux-installer.img.xz",
             "icon": "https://avatars.githubusercontent.com/u/52997?s=280&v=4",
             "website": "https://github.com/kwankiu/archlinux-installer-rock5/wiki",
             "extract_size": 5746553856,
             "image_download_size": 354810776,
-            "release_date": "2024-02-11",
+            "release_date": "2024-02-21",
             "devices": [
               "rock-5a",
               "rock-5b"
@@ -23,7 +23,7 @@
             "website": "https://github.com/kwankiu/archlinux-installer-rock5/wiki",
             "extract_size": 5746553856,
             "image_download_size": 354810776,
-            "release_date": "2024-02-18",
+            "release_date": "2024-02-21",
             "devices": [
               "rock-5a",
               "rock-5b"
