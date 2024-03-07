@@ -96,7 +96,7 @@
           "subitems_url": "https://rock5-images-repo.github.io/armbian/index.json"
         },
         {
-          "name": "Arch Linux Installer for Rock 5",
+          "name": "Arch Linux Installer for ARM (Aarch64)",
           "description": "Community-built Arch Linux Installer for ARM (Aarch64) with main focus on the Radxa Rock 5 and RK3588",
           "icon": "https://avatars.githubusercontent.com/u/52997?s=280&v=4",
           "subitems_url": "https://rock5-images-repo.github.io/archlinux-installer-rock5/index.json"
