@@ -27,7 +27,7 @@
               "rock-5b"
             ],
             "init_format": "none"
-          }
+          },
           {
             "name": "Arch Linux Installer for Rock 5A (development build)",
             "description": "Community-built Arch Linux Installer for ARM (Aarch64)",
