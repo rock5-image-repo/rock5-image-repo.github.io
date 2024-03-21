@@ -17,7 +17,7 @@
           {
             "name": "BredOS Archlinux Rock 5B",
             "description": "Get a buttery-smooth experience with BredOS!",
-            "url": "https://repo.bredos.org/BredOS-ARM-rock5b-2024-02-27.img.xz",
+            "url": "https://repo.bredos.org/BredOS-ARM-rock5b-2024-03-13.img.xz",
             "icon": "https://bredos.org/assets/img/2023-05-27_17-44.jpg",
             "website": "https://bredos.org/download.html",
             "extract_size": 409600000,
