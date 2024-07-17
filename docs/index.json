@@ -29,6 +29,36 @@
         "matching_type": "inclusive"
       },
       {
+        "name": "Radxa ROCK 5C",
+        "tags": [
+          "rock-5c"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/rock5/rock_5c/banner_rock_5c.webp",
+        "description": "Your 8K Computer for Everything",
+        "matching_type": "inclusive"
+      },
+      {
+        "name": "Radxa ROCK 5 ITX",
+        "tags": [
+          "rock-5-itx"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/rock5/rock_5itx/banner_radxa_rock_5_itx.webp",
+        "description": "Your 8K ARM Personal Computer",
+        "matching_type": "inclusive"
+      },
+      {
+        "name": "Radxa CM5",
+        "tags": [
+          "radxa-cm5"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/cm/cm5/banner_cm5.webp",
+        "description": "A High Performance Embedded SoM",
+        "matching_type": "inclusive"
+      },
+      {
         "name": "Generic RK3588 / RK3588S",
         "tags": [
           "generic-rk3588",
