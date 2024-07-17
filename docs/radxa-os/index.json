@@ -71,14 +71,14 @@
             "init_format": "none"
           },
           {
-            "name": "Radxa OS (ROCK 5B Debian Bullseye KDE)",
+            "name": "Radxa OS (ROCK 5B Debian Bookworm KDE)",
             "description": "Radxa OS is the official operating system developed by Radxa based on Debian",
-            "url": "https://github.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.xz",
+            "url": "https://github.com/radxa-build/rock-5b/releases/download/rsdk-b3/rock-5b_bookworm_kde_b3.output.img.xz",
             "icon": "https://docs.radxa.com/en/logo.svg",
             "website": "https://docs.radxa.com/en/rock5/official-images?model=ROCK+5B",
             "extract_size": 409600000,
             "image_download_size": 1280000000,
-            "release_date": "2023-09-04",
+            "release_date": "2024-07-10",
             "devices": [
               "rock-5b"
             ],
