@@ -59,6 +59,16 @@
         "matching_type": "inclusive"
       },
       {
+        "name": "Radxa NX5",
+        "tags": [
+          "radxa-nx5"
+        ],
+        "default": false,
+        "icon": "https://radxa.com/medge/medge-rk3588s/banner_nx5.webp",
+        "description": "Radxa mEdge-RK3588S",
+        "matching_type": "inclusive"
+      },
+      {
         "name": "Generic RK3588 / RK3588S",
         "tags": [
           "generic-rk3588",
